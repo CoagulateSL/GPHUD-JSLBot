@@ -6,7 +6,7 @@
 
     <groupId>net.coagulate.SL</groupId>
     <artifactId>GPHUD-JSLBot</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <build>
         <directory>${project.basedir}/bin</directory>
         <outputDirectory>${project.basedir}/out</outputDirectory>
