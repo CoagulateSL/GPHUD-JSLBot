@@ -84,7 +84,7 @@
          <dependency>
            <groupId>net.coagulate.SL</groupId>
            <artifactId>gphud</artifactId>
-           <version>3.19.10</version>
+           <version>3.19.11</version>
          </dependency>             
     </dependencies>
     <distributionManagement>
