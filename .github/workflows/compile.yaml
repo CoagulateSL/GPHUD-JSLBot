@@ -16,8 +16,8 @@ jobs:
       - name: Checkout CoagulateSL
         uses: actions/checkout@v2
         with:
-          path: CoagulateSL
-          repository: 'CoagulateSL/CoagulateSL'          
+          repository: 'CoagulateSL/CoagulateSL'        
+          path: CoagulateSL       
       - name: Checkout JavaCore
         uses: actions/checkout@v2
         with:
